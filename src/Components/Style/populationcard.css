@@ -1,0 +1,14 @@
+.population-card {
+  border: 2px solid;
+  padding: 1rem;
+  border-radius: 0.8rem;
+  width: max-content;
+}
+.population-card h3{
+    text-align: center;
+}
+.country-details {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+}

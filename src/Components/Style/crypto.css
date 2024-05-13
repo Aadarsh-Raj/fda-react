@@ -1,0 +1,19 @@
+.crypto-container{
+    display: flex;
+    width: 100vh;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.crypto-inner-container{
+    border: 2px solid;
+    border-radius: 0.8rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+.currency{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}

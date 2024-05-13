@@ -1,0 +1,19 @@
+.sidebar{
+    height: 100vh;
+    position: fixed;
+    background-color: darkgray;
+    padding:3rem 1.5rem;
+}
+.navbar{
+    display: flex;
+   flex-direction: column;
+}
+.navbar p{
+   list-style: none;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 0.7rem;
+  
+}
